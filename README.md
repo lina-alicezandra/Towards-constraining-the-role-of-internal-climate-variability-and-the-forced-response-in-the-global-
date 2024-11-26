@@ -1,5 +1,7 @@
 This file is scripts for the Chapter 4: Constraining the time of emergence of anthropogenic signal in global land carbon sink of the PhD thesis "Towards constraining the role of internal climate variability and the forced response in the global carbon cycle", contact: nali@bgc-jena.mpg.de
 
+DOI: 10.5281/zenodo.14224843
+
 contains: 1) scripts for plot the Figure 1.2 for the PhD thesis; 2) scripts for the Chapter 4 (3rd PhD study).
 
 CDO are used for data-pretreatment: Schulzweida, Uwe. (2023). CDO User Guide (2.3.0). Zenodo. https://doi.org/10.5281/zenodo.10020800
