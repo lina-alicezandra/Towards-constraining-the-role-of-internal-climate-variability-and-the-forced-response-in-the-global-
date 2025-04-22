@@ -2,7 +2,9 @@ This file is scripts for the Chapter 4: Constraining the time of emergence of an
 
 DOI: 10.5281/zenodo.14224843
 
-contains: 1) scripts for plot the Figure 1.2 for the PhD thesis; 2) scripts for the Chapter 4 (3rd PhD study).
+Contains: 1) scripts for plot the Figure 1.2 for the PhD thesis; 2) scripts for the Chapter 4 (3rd PhD study).
+
+Note that new file PhD_thesis_3rd_study_updated.zip is added, this is the updated code for the 3rd study (Chapter 4)
 
 CDO are used for data-pretreatment: Schulzweida, Uwe. (2023). CDO User Guide (2.3.0). Zenodo. https://doi.org/10.5281/zenodo.10020800
 
